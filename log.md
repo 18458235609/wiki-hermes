@@ -70,3 +70,8 @@
 - skills/autonomous-ai-agents/post-task-reflection.md — 任务后结构化复盘，second-order thinking
 - skills/autonomous-ai-agents/error-classify-recover.md — 错误分类 + 恢复策略选择
 - skills/autonomous-ai-agents/lesson-to-skill.md — 教训提炼为可复用 skill 的完整流程
+
+## [2026-04-20] update+sync | 自我提升
+- Sub-domain: self-improvement
+- Concepts: self-reflection, error-recovery, feedback-loop, learning-from-mistakes, agent-memory, skill-acquisition
+- Characters: 12525
