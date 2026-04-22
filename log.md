@@ -75,3 +75,8 @@
 - Sub-domain: self-improvement
 - Concepts: self-reflection, error-recovery, feedback-loop, learning-from-mistakes, agent-memory, skill-acquisition
 - Characters: 12525
+
+## [2026-04-22] update+sync | 委托调度
+- Sub-domain: delegation
+- Concepts: delegation, subagent, multi-agent, orchestration, workflow, task-planning
+- Characters: 16491
