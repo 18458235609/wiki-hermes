@@ -80,3 +80,8 @@
 - Sub-domain: delegation
 - Concepts: delegation, subagent, multi-agent, orchestration, workflow, task-planning
 - Characters: 16491
+
+## [2026-04-27] update+sync | 自我提升
+- Sub-domain: self-improvement
+- Concepts: self-reflection, error-recovery, feedback-loop, learning-from-mistakes, agent-memory, skill-acquisition
+- Characters: 12525
