@@ -85,3 +85,8 @@
 - Sub-domain: self-improvement
 - Concepts: self-reflection, error-recovery, feedback-loop, learning-from-mistakes, agent-memory, skill-acquisition
 - Characters: 12525
+
+## [2026-04-30] update+sync | Prompting技巧
+- Sub-domain: prompting
+- Concepts: chain-of-thought, few-shot, role-playing, output-formatting, system-prompt, prompting
+- Characters: 15401
